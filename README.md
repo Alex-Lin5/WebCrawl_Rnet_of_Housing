@@ -1,4 +1,4 @@
-# WebCrawl_Rnet_of_Housing
+# WebCrawler_for_house_rent
 Developed in Python, crawled the housing information of Xiaozhu website. \
 Completed in Oct.2018
 
